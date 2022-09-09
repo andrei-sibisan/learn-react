@@ -21,6 +21,6 @@ const user = {
   lastName: "Sibisan",
 };
 
-const element = getGreeting(user);
+const element = <a href="https://www.reactjs.org"> link </a>;
 
 root.render(element);
